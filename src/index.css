@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+@media (max-width: 775px) {
+    .css-1m9128y{
+        display: none;
+    }
+}
